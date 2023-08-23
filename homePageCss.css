@@ -1,0 +1,81 @@
+h1{
+ 
+ font-weight: bolder;
+ color:blue;
+ margin: 0;
+
+
+}
+
+#cart{
+
+
+	font-weight: bold;
+	border-radius: 10px;
+}
+p.top{
+	display: flex;
+	flex-direction: row;
+	justify-content:  flex-end;
+	margin:0;
+}
+#login, #search,#account
+{
+
+	color:blue;
+	border-radius: 10px;
+	border:blue solid thin;
+}
+#signup{
+
+	color:#ffffff;
+	background-color: blue;
+	border-radius: 10px;
+	border:blue solid medium;
+}
+
+
+#searchInput{
+      border:none;
+      border-bottom: blue solid thin;
+	
+}
+p.searchP{
+    
+  text-align: center;
+  margin:0}
+  
+button:hover{
+	box-shadow:  0 0 0  1px blue;
+}
+
+
+ main{
+
+ 	display: grid;
+ 	grid-template-rows:auto;
+ 	grid-template-columns:repeat(4,1fr);
+
+ }
+ section.post{
+   display: inline-grid;
+   grid-auto-flow: row;
+ 
+
+ }
+ section > p{
+  text-align:center;
+  margin:0;
+ 
+ }
+ p.price{
+ 
+ font-weight:bold;
+ }
+ p.listing{
+ text-align:center;
+ 
+ 
+ }
+
+

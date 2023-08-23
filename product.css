@@ -1,0 +1,90 @@
+h1{
+ 
+ font-weight: bolder;
+ color:blue;
+ margin: 0;
+
+
+}
+h3{
+	text-decoration: underline;
+	text-decoration-style: solid;
+	text-align: center;
+	text-decoration-color:blue; 
+}
+#login{
+
+	color:blue;
+	border-radius: 10px;
+	border:#000 solid thin;
+}
+#signup{
+
+	color:#ffffff;
+	background-color: blue;
+	border-radius: 10px;
+	border:blue solid medium;
+}
+#cart{
+	font-weight: bold;
+	border-radius: 10px;
+
+}
+button > sup {
+
+	background: red;
+	color:#fff;
+     border-radius: 10px;
+}
+p.top{
+	display: flex;
+	flex-direction: row;
+	justify-content:  flex-end;
+	margin:0;
+}
+main {
+      display:grid;
+      grid-template-columns: 1fr 1fr;
+
+
+}
+p.name{
+font-weight: bold;
+}
+section > p{
+
+text-align: center;
+}
+h4.add{
+      text-align: center;
+      color:#fff;
+      background-color: blue;
+      border-radius: 10px;
+
+}
+h4.add:hover{
+	box-shadow: 0 0 0 2px blue;
+}
+p.price{
+        text-decoration: underline;
+        text-decoration-style: double;
+        text-decoration-color: blue;
+}
+img.main {
+	width:40vw;
+	height:25vw;
+}
+img.select {
+
+	width: 10vw;
+	height:5vw;
+}
+p.choices {
+	text-align: center;
+}
+img.select:hover {
+     box-shadow: 0 0 0 2px blue;
+}
+button:hover{
+	box-shadow:  0 0 0  1px blue;
+}

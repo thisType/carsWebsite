@@ -1,0 +1,79 @@
+h1{
+ 
+ font-weight: bolder;
+ color:blue;
+ margin: 0;
+
+
+}
+h2{
+	text-align: center;
+}
+
+
+main{
+
+ 	display: grid;
+ 	grid-template-rows:auto;
+ 	grid-template-columns:repeat(4,1fr);
+
+ }
+ p.post{
+   display: inline-grid;
+   grid-auto-flow: row;
+ 
+
+ }
+ p.top{
+	display: flex;
+	flex-direction: row;
+	justify-content:  flex-end;
+	margin:0;
+}
+#login, #account{
+
+	color:blue;
+	border-radius: 10px;
+	border:blue solid thin;
+}
+#purchase{
+
+	color:#ffffff;
+	background-color: blue;
+	border-radius: 10px;
+	border:blue solid medium;
+}
+
+
+button:hover{
+	box-shadow:  0 0 0  1px blue;
+}
+section.post{
+   display: inline-grid;
+   grid-auto-flow: row;
+ 
+
+ }
+ section > p{
+  text-align:center;
+  margin:0;
+ 
+ }
+ p.price{
+ 
+ font-weight:bold;
+ }
+ p.remove{
+
+    color:red;
+    font-weight :bold;
+    border:blue solid thin;
+     border-radius: 10px;
+}
+#account
+{
+
+	color:blue;
+	border-radius: 10px;
+	border:blue solid thin;
+}

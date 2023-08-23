@@ -1,0 +1,42 @@
+h1{
+ 
+ font-weight: bolder;
+ color:blue;
+ margin: 0;
+
+
+}
+section.userDetails{
+	text-align: center;
+}
+button.reveal {
+
+	background-color:blue;
+	color:#fff; 
+	border-radius:12px;
+	border: blue solid thin;
+        
+}
+button:hover {
+	box-shadow: 0 0 0 2px  blue;
+}
+section.history {
+text-align: center;
+
+
+}
+section.history > p {
+	text-decoration: underline;
+	text-decoration-color: blue;
+	text-decoration-style: solid;
+}
+h2 {
+
+
+	text-align: center;
+}
+
+main{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}

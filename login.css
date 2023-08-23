@@ -1,0 +1,93 @@
+h1{
+ 
+ font-weight: bolder;
+ color:blue;
+ margin: 0;
+
+
+}
+nav >ul{
+
+	list-style-type: none;
+	margin:0;
+	display:block;
+	text-align: center;
+}
+li{
+	
+	display: inline-block;
+	margin-right: 2em;
+}
+
+
+
+
+label {
+	font-weight: bold;
+	display: block;
+}
+input {
+  border:none;
+ border-bottom: blue solid thin;
+ 
+
+}
+input::focus, input::active ,input::valid{
+
+	border:none;
+	 border-bottom: blue solid thin;
+ 
+}
+input[type='submit'] {
+
+        
+        color:#fff;
+        background-color: blue;
+        border: blue solid thin;
+        border-radius:12px;
+       
+
+}
+input:invalid {
+	border:red solid thin;
+}
+
+main {
+
+	display: grid;
+	grid-template-columns:  1fr 1fr;
+}
+
+form{
+
+	align-self: center;
+
+
+}
+
+button[disabled]{
+
+	color:blue;
+	border-radius: 10px;
+	border:blue solid thin;
+	opacity:0.3;
+}
+p.messages{
+
+    
+
+    border:blue solid thin;
+    color:blue;
+    text-align:center;
+
+
+
+}
+button:hover, input[type='submit']:hover{
+	box-shadow:  0 0 0  1px blue;
+}
+button.Enabled{
+  color:blue;
+	border-radius: 10px;
+	border:blue solid thin;
+ }
