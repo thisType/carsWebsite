@@ -1,0 +1,48 @@
+id,car_name,brand,model,category,description,price
+100000,"Toyota Camry",Toyota,2023,sedan,"2.5L I-4 Engine  203@ 6600 Horsepower front-wheel Drive",3999999
+100001,"Toyota Camry",Toyota,2021,sedan,"2.5L I-4 Engine  203@ 6600 Horsepower front-wheel Drive",2999999
+100002,"Toyota Camry",Toyota,2022,sedan,"2.5L I-4 Engine  169@ 6600 Horsepower front-wheel Drive",3999999
+100003,"Toyota Corolla",Toyota,2023,sedan,"2.0L I-4 Engine  169 hp @ 6600 Horsepower front-wheel Drive",4999999
+100004,"Toyota avalon ",Toyota,2023,sedan,"2.5L V6 Engine  301 hp @  front-wheel Drive",5999999
+100005,"Toyota avalon ",Toyota,2022,sedan,"2.0L inline 4 Engine  196 hp @  all wheel Drive",6999999
+100006,"Toyota avalon ",Toyota,2015,sedan,"1.8L gas/electric I-4 Engine 105hp @ 40000 rpm front-wheel Drive",2999999
+100007,"Toyota Corolla altis",Toyota,2020,sedan,"1.8L VVT-i 4-Cylinder + Hybrid Motor 1.4V 121hp @ 6000rpm front-wheel drive ",2000000
+100008,"Toyota Crown",Toyota,2023,sedan,"2.5L Gas/Electric hybrid  l-4 236hp @ 6000 rpm all wheel drive",5000000
+100009,"Audi  a6",audi,2023,sedan,"14.11 kmpl petro engine 241.3nhp @ 6500rpm FWD(Four wheel Drive)  ",7590000
+100010,"Mercedes S class",mercedes,2023,sedan,"3.0L 429hp @ 5500rpm all wheel drive  ",1909000
+100011,"Mercedes gla ",mercedes,2014,SUV," 52.70 Lakh Diesel  187.74bhp @ 3800rpm all wheel drive",2409000
+100012,"Toyota Glanza ",toyota,2014,hatchback," 1.2 Petrol Engine 88.50bhp @6000rpm  automatic ",4000000
+100013,"Audi a1  ",audi,2019,hatchback,"  1.0L Turbo 3 Engine 70kw @5000 rpm 84-147 bhp front wheel drive ",3000000
+100014,"Totota rav 4  ",toyota,2022,SUV," 2.5L  Engine 204hp @ 6600rpm  all wheel drive ",5500000
+100015,"Totota rav 4  ",toyota,2018,SUV," 2.5L  Engine 176hp @ 6000rpm  all wheel drive  automatic",2500000
+100016,"Totota 4runner  ",toyota,2022,SUV," 4.0L V6 Engine 270hp @ 5600rpm four wheel drive ",8500000
+100017,"Totota 4runner  ",toyota,2020,SUV,"4.0L V6  270 hp @ 5600 rpm automatic real  wheel drive ",4500000
+100018,"Totota Highlander ",toyota,2021,SUV,"3.5L V6 Engine   295hp @ 6600 rpm automatic/OD  front  wheel drive ",1650000
+100019,"Totota Highlander ",toyota,2020,SUV,"3.5L V6 Engine   295hp @ 6600 rpm automatic/OD  front  wheel drive ",1350000
+100020," Audi q5 ",audi,2021,SUV,"2.0L Turbo Gas/Electric I-4  Engine 261hp @ 5000rpm auto-shift Manual  all  wheel drive ",6500000
+100021," Audi q5 ",audi,2020,SUV,"2.0L Turbo  Premium I-4  Engine   248hp @ 5000rpm auto-shift Manual  all  wheel drive ",5500000
+100022," Audi q5 ",audi,2023,SUV,"2.0L Turbo Gas/Electric I-4  Engine 362hp @ 5000rpm auto-shift Manual  all  wheel drive ",7500000
+100023," Mercedes-Benz GLE  ",mercedes,2020,SUV,"2.0L  inline-4 turbo  Engine 255hp @ 5800rpm 9-speed shiftable automatic  all wheel drive ",8600000
+100024," BMW  x5 ","BMW ",2021,SUV,"3.0L Turbo Gas/Electric I-6 Engine 335hp @ 5500rpm  automatic w/OD all wheel drive ",9600000
+100025," BMW  x5 ","BMW ",2022,SUV,"3.0L Turbo Gas/Electric I-6 Engine 335hp @ 5500rpm  automatic w/OD 2 wheel drive ",10600000
+100026," BMW  x5 ","BMW ",2023,SUV,"3.0L Turbo Gas/Electric I-6 Engine 335hp @ 5500rpm  automatic w/OD all wheel drive ",14600000
+100027," Lexus lx  ","lexus ",2020,SUV,"5.7L V8 Engine 383hp @ 5600rpm  8-speed shiftable automatic four wheel drive ",15400000
+100028," Lexus lx  ","lexus ",2021,SUV,"5.7L V8 Engine 383hp @ 5600rpm  automatic w/OD  four wheel drive ",18700000
+100029," Honda CR-V   ",honda,2021,SUV,"1.5L I-4 Engine 190hp @ 5600rpm   automatic front wheel drive ",5200000
+100030," Ford F-150 ",ford,2023,pickup,"5.0L V8 Engine 400hp @ 6000rpm   automatic rear wheel drive ",7200000
+100031," Ford F-150 ",ford,2022,pickup,"5.0L V8 Engine 400hp @ 6000rpm   automatic four wheel drive ",5300000
+100032," Toyota tacoma ",toyota,2023,pickup,"3.5L V6 Engine 278hp @ 6000rpm   automatic rear wheel drive ",52422000
+100033," Toyota tacoma ",toyota,2022,pickup,"3.5L V6 Engine 278hp @ 6000rpm   automatic fourr wheel drive ",4220000
+100034,"Hilux Double cab  ",toyota,2023,pickup,"2.4L I-4  Diesel Engine 147hp @ 3400rpm   5-speed manual four  wheel drive ",6500000
+100035,"Hilux Double cab  ",toyota,2022,pickup,"2.8L I-4  turbo 4 Diesel Engine 150kW @ 3000rpm   5-speed manual four  wheel drive ",5000000
+100036,"Toyota Tundra ",toyota,2022,pickup,"3.4L Twin Turbo V6  Diesel Engine 389hp @ 5200rpm   automatic w/OD four  wheel drive ",4500000
+100037,"Toyota Tundra ",toyota,2021,pickup,"5.7L Regular V8  Diesel Engine 381hp @ 5600rpm   automatic w/OD rear  wheel drive ",3500000
+100038,"Nissan Titan ",nissan,2022,pickup,"5.6L V8 Diesel Engine 400hp @ 5800rpm   automatic w/OD rear  wheel drive ",6500000
+100039,"Nissan Titan ",nissan,2023,pickup,"5.6L V8 Diesel Engine 400hp @ 5800rpm   automatic w/OD four  wheel drive ",7600000
+100040,"Isuzu D-Max ",isuzu,2020,pickup,"3.0L Diesel turbo 4 V8  Engine 140kw  @ 3600rpm   six-speed drive four  wheel drive ",3500000
+100041,"Ford Transit t-150 ",ford,2022,van,"3.5L V6  Engine 275hp @ 6250rpm  automatic w/OD  rear  wheel drive ",3500000
+100042,"Ford Transit t-150 ",ford,2021,van,"3.5L V6  Engine 275hp @ 6500rpm  automatic w/OD  rear  wheel drive ",3500000
+100043,"Mercdes-Benz  Sprinter",mercedes,2022,van,"2.0L Turbo Premium I-4  Engine 188hp @ 5000rpm  automatic w/OD  rear  wheel drive ",5500000
+100044,"Mercdes-Benz  Sprinter",mercedes,2021,van,"2.0L Turbo Premium I-4  Engine 188hp @ 5000rpm  automatic w/OD  rear  wheel drive ",4500000
+100045,"Ram promaster",ram,2023,van,"3.6L V6 Engine 276hp @ 6400rpm  automatic w/OD  front  wheel drive ",7500000
+100046,"Peugeot Expert",peugeot,2022,van,"2.0L Diesel turbo 4   Engine 110kW @ 4000rpm  automatic w/OD  front  wheel drive ",5500000
